@@ -8,8 +8,7 @@ Then supervised methods are used to classify these 2 cluster users as Novice Int
 
 
 Dataset Description
-The dataset is collected from UCI website link as follows: https://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data (https://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data)
-
+The dataset is collected from UCI website link as follows: https://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data 
 
 
 This data comes from a survey conducted by the Graphics and Visualization Unit at Georgia Tech October 10 to November 16, 1997. The subset of the survey provided is this "general demographics" of internet users. The data have been recorded as entirely numeric, with an index to the codes described in the "Coding" file.
